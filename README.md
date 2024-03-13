@@ -26,12 +26,12 @@ python text_analysis_app.py -t "Text to analyze goes here."
 ```
 Follow the instructions to enter your OpenAI API key if there are some issue.
 
-##Unit test
+## Unit test
 Run unit tests to ensure the core functionalities work as expected:
 
 ```
 python test_analysis_app.py
 
 ```
-##Output
+## Output
 The application will print the analysis result, highlighting key insights and patterns in the provided text.
